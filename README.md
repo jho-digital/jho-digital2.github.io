@@ -1,1 +1,2 @@
-# jho-digital2.github.io
+# jho-digital.github.io
+Jhoanna's digital CV
